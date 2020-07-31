@@ -1,5 +1,5 @@
 {
 "news" : [
-{"ID":0,"Date":"31/07/2020","Titre":"Woulou","Contenu":"Wouloulou je suis en train de tester cette belle mécanique de news !\n\nEn plus il parait que je peux afficher comme ça plusieurs lignes d'un coup"}
+{"ID":0,"Date":"31/07/2020","Title":"Woulou","Content":"Wouloulou je suis en train de tester cette belle mécanique de news !\n\nEn plus il parait que je peux afficher comme ça plusieurs lignes d'un coup"}
 ]
 }

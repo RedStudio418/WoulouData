@@ -1,5 +1,6 @@
 {
 "news" : [
-{"ID":1,"Date":"31/07/2020","Title":"Woulou","Content":"Wouloulou je suis en train de tester cette belle mécanique de news !\n\nEn plus il parait que je peux afficher comme ça plusieurs lignes d'un coup"}
+{"ID":1,"Date":"31/07/2020","Title":"Woulou","Content":"Wouloulou je suis en train de tester cette belle mécanique de news !\n\nEn plus il parait que je peux afficher comme ça plusieurs lignes d'un coup"},
+{"ID":2,"Date":"26/12/2020","Title":"Nouvelle version","Content":"Merci d'avoir téléchargé cette nouvelle version du jeu ! ;)"}
 ]
 }
